@@ -10,7 +10,7 @@ Explorer le catalogue Netflix pour répondre à deux questions :
 
 ## 📂 Données
 
-Dataset Kaggle **« Netflix Movies and TV Shows »** ([lien vers la page Kaggle]).
+Dataset Kaggle **« Netflix Movies and TV Shows »** ([https://www.kaggle.com/datasets/shivamb/netflix-shows]).
 Il contient le type de contenu (film ou série), le titre, le pays, la date d'ajout, l'année de sortie, la classification, la durée et les genres.
 
 ## 🛠️ Outils
